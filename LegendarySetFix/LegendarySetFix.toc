@@ -1,0 +1,7 @@
+## Interface: 70300
+## Title: LegendarySetFix
+## Notes: Safe legendary Equipment Set switching for Legion
+## Author: !!!MIGUEL!!
+## Version: 1.4
+
+LegendarySetFix.lua
