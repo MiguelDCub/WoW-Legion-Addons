@@ -29,6 +29,4 @@ Moonlit Prism, Infernal Writ, Mithril Wristwatch, Wriggling Sinew, Swarming Plag
 
 Unknown effects display UNKNOWN. Target damage procs display DMG PROC without an invented countdown. Internal cooldowns use the observed buff start; Infernal Writ's remaining duration is estimated from stacks.
 
-Published from the installed files supplied by the user, who confirmed operation. Lua and TOC files are unchanged.
-
 No software license has yet been selected. Community addon; not affiliated with or endorsed by Blizzard Entertainment.
