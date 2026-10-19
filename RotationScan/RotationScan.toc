@@ -1,0 +1,8 @@
+## Interface: 70300
+## Title: RotationScan
+## Notes: Records combat rotation and equipment/stat snapshots for every pull.
+## Author: !!!MIGUEL!!
+## Version: 1.1
+## SavedVariables: RotationScanDB
+
+RotationScan.lua

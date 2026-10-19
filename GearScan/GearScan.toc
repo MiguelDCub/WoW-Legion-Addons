@@ -1,0 +1,8 @@
+## Interface: 70300
+## Title: GearScan
+## Notes: Exports gear, bags, stats, talents and artifact information.
+## Author: !!!MIGUEL!!
+## Version: 1.1
+## SavedVariables: GearScanDB
+
+GearScan.lua

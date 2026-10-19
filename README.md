@@ -8,10 +8,12 @@ A collection of independent addons and utilities for **World of Warcraft: Legion
 | --- | --- | --- |
 | [LegendarySetFix](LegendarySetFix/) | Safely switch saved Equipment Sets that use different legendary items. | v1.4 |
 | [TrinketTracker](TrinketTracker/) | Movable visual tracker for equipped trinkets, buffs and cooldowns. | v1.2.1 |
+| [GearScan](GearScan/) | Export equipment, bags, stats, talents and artifact information. | v1.1 |
+| [RotationScan](RotationScan/) | Record combat sessions and analyze Fire Mage rotations. | v1.2.1 |
 
 ## Planned additions
 
-The following projects are being prepared for publication: **GearScan**, **RotationScan**, and **FireCursor**. They will each have their own folder and documentation once their installed versions have been checked.
+**CursorLightnig** is planned for a future update.
 
 ## Installation
 
