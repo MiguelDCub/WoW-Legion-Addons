@@ -1,0 +1,8 @@
+## Interface: 70300
+## Title: CursorLightnig
+## Notes: Lightning cursor marker for Legion.
+## Author: !!!MIGUEL!!
+## Version: 1.0.3
+## SavedVariables: CursorLightnigDB
+
+CursorLightnig.lua

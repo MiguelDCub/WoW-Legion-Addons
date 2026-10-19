@@ -10,10 +10,7 @@ A collection of independent addons and utilities for **World of Warcraft: Legion
 | [TrinketTracker](TrinketTracker/) | Movable visual tracker for equipped trinkets, buffs and cooldowns. | v1.2.1 |
 | [GearScan](GearScan/) | Export equipment, bags, stats, talents and artifact information. | v1.1 |
 | [RotationScan](RotationScan/) | Record combat sessions and analyze Fire Mage rotations. | v1.2.1 |
-
-## Planned additions
-
-**CursorLightnig** is planned for a future update.
+| [CursorLightnig](CursorLightnig/) | Lightning effect that follows the mouse cursor. | v1.0.3 |
 
 ## Installation
 
