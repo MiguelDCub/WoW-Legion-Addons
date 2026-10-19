@@ -7,10 +7,11 @@ A collection of independent addons and utilities for **World of Warcraft: Legion
 | Addon | Description | Version |
 | --- | --- | --- |
 | [LegendarySetFix](LegendarySetFix/) | Safely switch saved Equipment Sets that use different legendary items. | v1.4 |
+| [TrinketTracker](TrinketTracker/) | Movable visual tracker for equipped trinkets, buffs and cooldowns. | v1.2.1 |
 
 ## Planned additions
 
-The following projects are being prepared for publication: **TrinketTracker**, **GearScan**, **RotationScan**, and **FireCursor**. They will each have their own folder and documentation once their installed versions have been checked.
+The following projects are being prepared for publication: **GearScan**, **RotationScan**, and **FireCursor**. They will each have their own folder and documentation once their installed versions have been checked.
 
 ## Installation
 

@@ -1,0 +1,8 @@
+## Interface: 70300
+## Title: TrinketTracker
+## Notes: Movable Legion trinket tracker with verified item database
+## Author: ChatGPT
+## Version: 1.2.1
+## SavedVariablesPerCharacter: TrinketTrackerDB
+
+TrinketTracker.lua
